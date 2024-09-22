@@ -8,7 +8,7 @@ git clone https://github.com/ProfessorNemo/tt-reine.git
 
 ## Описание заданий:
 
-- [Задача #1]([https://github.com/ProfessorNemo/tt-reine/blob/master/test_task.pdf)
+- [Задача #1](https://github.com/ProfessorNemo/tt-reine/blob/master/test_task.pdf)
 
 ## Решение:
 
