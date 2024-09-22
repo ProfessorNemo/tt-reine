@@ -36,14 +36,14 @@ git clone https://github.com/ProfessorNemo/tt-reine.git
   2023-09-03T12:47:00Z,txn67890,user123,300.5
   ```
 
-  ###### Запуск теста
+  ###### Запуск теста:
   ```
   cd task_1
   bundle exec rspec
   ```
 - [Задача#2](https://github.com/ProfessorNemo/tt-reine/blob/master/task_2.rb)
 
-  ###### Запуск
+  ###### Запуск:
   
   ```
   ruby task_2.rb
