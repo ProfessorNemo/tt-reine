@@ -12,13 +12,13 @@ git clone https://github.com/ProfessorNemo/tt-reine.git
 
 - [Задача#1](https://github.com/ProfessorNemo/tt-reine/tree/master/task_1)
 
-  ### Запуск
+  #### Запуск
   
   ```
   cd task_1/lib/
   ruby start.rb
   ```
-  ### Запуск теста
+  #### Запуск теста
   ```
   cd task_1
   bundle exec rspec
