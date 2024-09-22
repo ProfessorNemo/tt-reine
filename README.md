@@ -6,7 +6,7 @@
 git clone https://github.com/ProfessorNemo/tt-reine.git
 ```
 
-[Задание](https://github.com/ProfessorNemo/tt-reine/blob/master/test_task.pdf)
+[Текст заданий](https://github.com/ProfessorNemo/tt-reine/blob/master/test_task.pdf)
 
 ## Решение:
 
