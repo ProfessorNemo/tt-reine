@@ -24,5 +24,11 @@ git clone https://github.com/ProfessorNemo/tt-reine.git
   bundle exec rspec
   ```
 - [Задача#2](https://github.com/ProfessorNemo/tt-reine/blob/master/task_2.rb)
+
+  ###### Запуск
+  
+  ```
+  ruby task_2.rb
+  ```
 - [Задача#3](https://github.com/ProfessorNemo/tt-reine/blob/master/task_3.rb)
 - [Задача#4](https://github.com/ProfessorNemo/tt-reine/tree/master/task_4.rb)
