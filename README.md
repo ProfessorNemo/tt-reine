@@ -15,6 +15,8 @@ git clone https://github.com/ProfessorNemo/tt-reine.git
   ###### Запуск:
   
   ```
+  cd task_1
+  bundle install
   cd task_1/lib/
   ruby start.rb
   ```
